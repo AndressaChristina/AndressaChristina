@@ -1,6 +1,7 @@
 ### Olá 👋
 
 ###### Sobre a Andressa
+Tenho 6 anos de experiência no desenvolvimento de websites e 4 anos de experiência como professora de informática e inglês.
 
 ### Detalhes
 
