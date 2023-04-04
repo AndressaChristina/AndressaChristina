@@ -4,11 +4,11 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndressaChristina&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndressaChristina&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndressaChristina&repo=Tik-Tok-Project&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndressaChristina&repo=Tik-Tok-Project&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
