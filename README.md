@@ -1,19 +1,19 @@
 ### Olá 👋
 
-###### Sobre a Andressa
-Tenho 6 anos de experiência no desenvolvimento de websites e 4 anos de experiência como professora de informática e inglês.
+<!--###### Sobre a Andressa
+  Tenho 6 anos de experiência no desenvolvimento de websites e 4 anos de experiência como professora de informática e   inglês.
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndressaChristina&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndressaChristina&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Projeto
+<!-- ### Projeto -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndressaChristina&repo=Tik-Tok-Project&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndressaChristina&repo=Tik-Tok-Project&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Linguagens utilizadas
+<!-- ### Linguagens utilizadas 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaChristina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaChristina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### Contatos
 
